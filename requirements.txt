@@ -1,0 +1,7 @@
+# requirements.txt
+bettercap
+iproute2
+arping
+grep
+awk
+bash >= 4.0
